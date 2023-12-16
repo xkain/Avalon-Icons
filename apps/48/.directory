@@ -1,0 +1,8 @@
+[Dolphin]
+SortRole=path
+Timestamp=2023,12,13,22,22,39.634
+Version=4
+VisibleRoles=Icons_text,Icons_size
+
+[Settings]
+HiddenFilesShown=true
