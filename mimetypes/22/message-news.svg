@@ -24,14 +24,14 @@
  </defs>
  <metadata id="metadata3874"/>
  <g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
-  <path style="fill:#6c7a89;stroke-width:2" id="rect5977" d="M 5 3 L 5 19 L 20 19 L 20 3 L 5 3 z M 6 4 L 19 4 L 19 18 L 6 18 L 6 4 z " transform="matrix(1 0 0 1 326 534.3622)"/>
-  <rect width="5" x="333" y="543.36218" rx="0.000017" height="5" style="fill:#6c7a89;stroke-width:2" id="rect5982"/>
-  <rect width="11" x="333" y="550.36218" rx="0.000017" height="1" style="fill:#6c7a89;stroke-width:2" id="rect5984"/>
-  <rect width="5" x="339" y="547.36218" rx="0.000017" height="1" style="fill:#6c7a89;stroke-width:2" id="rect5986"/>
-  <rect width="5" x="339" y="543.36218" rx="0.000017" height="1" style="fill:#6c7a89;stroke-width:2" id="rect5988"/>
-  <rect width="11" x="333" y="540.36218" rx="0.000017" height="1" style="fill:#6c7a89;stroke-width:2" id="rect5990"/>
-  <rect width="1" x="328" y="541.36218" rx="0.000016" height="9.00002" style="fill:#6c7a89;stroke-width:2" id="rect5992"/>
-  <rect width="2" x="329" y="541.36218" rx="0.000017" height="1" style="fill:#6c7a89;stroke-width:2" id="rect5994"/>
-  <path style="fill:#6c7a89;stroke-width:2" id="path5998" d="M 2 16 A 2.9999914 2.9999914 0 0 0 5 19 L 5 18 A 2 2 0 0 1 3 16 L 2 16 z " transform="matrix(1 0 0 1 326 534.3622)"/>
+  <path style="fill:#687583;stroke-width:2" id="rect5977" d="M 5 3 L 5 19 L 20 19 L 20 3 L 5 3 z M 6 4 L 19 4 L 19 18 L 6 18 L 6 4 z " transform="matrix(1 0 0 1 326 534.3622)"/>
+  <rect width="5" x="333" y="543.36218" rx="0.000017" height="5" style="fill:#687583;stroke-width:2" id="rect5982"/>
+  <rect width="11" x="333" y="550.36218" rx="0.000017" height="1" style="fill:#687583;stroke-width:2" id="rect5984"/>
+  <rect width="5" x="339" y="547.36218" rx="0.000017" height="1" style="fill:#687583;stroke-width:2" id="rect5986"/>
+  <rect width="5" x="339" y="543.36218" rx="0.000017" height="1" style="fill:#687583;stroke-width:2" id="rect5988"/>
+  <rect width="11" x="333" y="540.36218" rx="0.000017" height="1" style="fill:#687583;stroke-width:2" id="rect5990"/>
+  <rect width="1" x="328" y="541.36218" rx="0.000016" height="9.00002" style="fill:#687583;stroke-width:2" id="rect5992"/>
+  <rect width="2" x="329" y="541.36218" rx="0.000017" height="1" style="fill:#687583;stroke-width:2" id="rect5994"/>
+  <path style="fill:#687583;stroke-width:2" id="path5998" d="M 2 16 A 2.9999914 2.9999914 0 0 0 5 19 L 5 18 A 2 2 0 0 1 3 16 L 2 16 z " transform="matrix(1 0 0 1 326 534.3622)"/>
  </g>
 </svg>

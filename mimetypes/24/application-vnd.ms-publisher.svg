@@ -14,7 +14,7 @@
   </metadata>
   <g transform="translate(1,1)">
     <svg:g inkscape:label="Capa 1" inkscape:groupmode="layer" id="layer1" transform="matrix(1 0 0 1 -326 -534.3622)">
-      <svg:path style="opacity:1;fill:#4bc94b;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 7 3 C 6.44599 3 6 3.44599 6 4 L 6 6 L 4 6 C 3.4459904 6 3 6.4459904 3 7 L 3 18 C 3 18.55401 3.4459904 19 4 19 L 15 19 C 15.55401 19 16 18.55401 16 18 L 16 16 L 18 16 C 18.55401 16 19 15.55401 19 15 L 19 4 C 19 3.44599 18.55401 3 18 3 L 7 3 z M 7 4 L 18 4 L 18 15 L 16 15 L 16 7 C 16 6.4459904 15.55401 6 15 6 C 12 6 7 5.6746762 7 4 z M 4 7 L 15 7 L 15 18 L 4 18 L 4 7 z M 5 8 L 5 10 L 14 10 L 14 8 L 5 8 z M 5 12 L 5 13 L 14 13 L 14 12 L 5 12 z M 5 14 L 5 15 L 14 15 L 14 14 L 5 14 z M 5 16 L 5 17 L 14 17 L 14 16 L 5 16 z " transform="translate(326,534.3622)" id="rect4153"/>
+      <svg:path style="opacity:1;fill:#687583;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 7 3 C 6.44599 3 6 3.44599 6 4 L 6 6 L 4 6 C 3.4459904 6 3 6.4459904 3 7 L 3 18 C 3 18.55401 3.4459904 19 4 19 L 15 19 C 15.55401 19 16 18.55401 16 18 L 16 16 L 18 16 C 18.55401 16 19 15.55401 19 15 L 19 4 C 19 3.44599 18.55401 3 18 3 L 7 3 z M 7 4 L 18 4 L 18 15 L 16 15 L 16 7 C 16 6.4459904 15.55401 6 15 6 C 12 6 7 5.6746762 7 4 z M 4 7 L 15 7 L 15 18 L 4 18 L 4 7 z M 5 8 L 5 10 L 14 10 L 14 8 L 5 8 z M 5 12 L 5 13 L 14 13 L 14 12 L 5 12 z M 5 14 L 5 15 L 14 15 L 14 14 L 5 14 z M 5 16 L 5 17 L 14 17 L 14 16 L 5 16 z " transform="translate(326,534.3622)" id="rect4153"/>
     </svg:g>
   </g>
 </svg>
