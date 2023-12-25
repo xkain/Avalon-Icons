@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   version="1.1"
+   height="48"
+   id="svg18"
+   viewBox="0 0 48 48"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs5455">
+    <linearGradient
+       id="linearGradient4326">
+      <stop
+         id="stop4328" />
+      <stop
+         offset="1"
+         style="stop-opacity:0"
+         id="stop4330" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4326"
+       id="linearGradient4434"
+       y1="502.798"
+       x1="439.57144"
+       y2="512.79803"
+       x2="429.57144"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.50000027,0,0,0.50000027,192.2856,241.89886)" />
+  </defs>
+  <metadata
+     id="metadata5458">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(1.5,0,0,1.5,-576.85715,-725.697)">
+    <path
+       style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
+       id="path4422"
+       d="m 405.07143,486.298 -2.99999,3 5.49999,5.50001 -5.49999,5.5 2.99999,2.99999 8.5,-8.49999 z" />
+    <rect
+       width="3.1250112"
+       x="392.44641"
+       y="486.79797"
+       rx="1.562506"
+       height="3.1250112"
+       style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.5"
+       id="rect4119" />
+    <flowRoot
+       line-height="125%"
+       style="font-size:32.5px;font-family:sans-serif"
+       id="flowRoot4170"><flowRegion
+         id="flowRegion4172"><rect
+           width="87.75001"
+           x="452.32144"
+           y="489.79807"
+           height="48.750004"
+           id="rect4174" /></flowRegion><flowPara
+         id="flowPara4176">Plasm</flowPara></flowRoot>
+    <rect
+       width="4.5000124"
+       x="387.57141"
+       y="496.5484"
+       rx="2.249999"
+       height="4.4999981"
+       style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.5"
+       id="rect4308" />
+    <rect
+       width="6.500001"
+       x="394.07144"
+       y="506.298"
+       rx="3.2500007"
+       height="6.500001"
+       style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.5"
+       id="rect4312" />
+    <path
+       style="opacity:0.9;fill:url(#linearGradient4434);fill-rule:evenodd;stroke-width:0.5"
+       id="path4426"
+       d="m 404.07142,498.298 3.00002,3.00001 3.49999,-3.50001 -3,-2.99999 z" />
+  </g>
+</svg>
