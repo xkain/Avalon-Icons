@@ -3,10 +3,6 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg6"
-   sodipodi:docname="folder-Neon.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -23,35 +19,9 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1002"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="28.545455"
-     inkscape:cx="3.9936305"
-     inkscape:cy="8.214968"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text { color:#eff0f1 }
-</style>
+    <style type="text/css" id="current-color-scheme"> .ColorScheme-Text { color:#eff0f1; } </style>
   </defs>
   <path
      d="M 10.999986,8.9221334 C 9.852428,8.9221334 8.922113,9.852445 8.922113,11 c 0,1.147556 0.930315,2.077868 2.077873,2.077868 1.147549,0 2.077867,-0.930312 2.077867,-2.077868 0,-1.147555 -0.930318,-2.0778666 -2.077867,-2.0778666 z M 10.639453,9.5904 c -0.38952,0.09937 -0.72392,0.359467 -0.917161,0.714667 -0.01887,0.03431 -0.05475,0.05423 -0.09133,0.05423 -0.01691,0 -0.03373,-0.0042 -0.0496,-0.01264 -0.05026,-0.02755 -0.06914,-0.09067 -0.0416,-0.140977 0.220978,-0.405334 0.603199,-0.702934 1.048537,-0.816356 0.056,-0.01493 0.112146,0.01937 0.126232,0.07503 0.01427,0.05565 -0.01953,0.112 -0.07507,0.126045 z"

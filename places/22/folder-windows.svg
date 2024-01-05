@@ -3,43 +3,17 @@
    viewBox="0 0 22 22"
    version="1.1"
    id="svg6"
-   sodipodi:docname="folder-windows.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview8"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="28.545455"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
   <defs
      id="defs3051">
     <style
        type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#232629
-      }
-      </style>
+       id="current-color-scheme"> .ColorScheme-Text { color:#eff0f1; } </style>
   </defs>
   <path
-     style="fill:#eff0f1;fill-opacity:1"
-     d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 6 L 18 6 L 18 18 L 4 18 L 4 6 z M 7 8 L 7 11.5 L 10.5 11.5 L 10.5 8 L 7 8 z M 11.5 8 L 11.5 11.5 L 15 11.5 L 15 8 L 11.5 8 z M 7 12.5 L 7 16 L 10.5 16 L 10.5 12.5 L 7 12.5 z M 11.5 12.5 L 11.5 16 L 15 16 L 15 12.5 L 11.5 12.5 z "
+     style="fill:currentColor;stroke-width:1.31966"
+     d="M 5.9387755,3 C 4.4915918,3 3.3265306,4.1893333 3.3265306,5.6666667 V 16.333333 C 3.3265306,17.810667 4.4915918,19 5.9387755,19 H 16.387755 C 17.834939,19 19,17.810667 19,16.333333 V 5.6666667 C 19,4.1893333 17.834939,3 16.387755,3 Z m 0,2.6666667 H 16.387755 c 0.723592,0 1.306123,0.5946666 1.306123,1.3333333 v 9.333333 c 0,0.609215 -0.501454,1.25 -1.306123,1.25 H 5.9387755 c -0.8456313,0 -1.3061224,-0.625112 -1.3061224,-1.25 V 7 c 0,-0.7386667 0.5825306,-1.3333333 1.3061224,-1.3333333 z M 7,7.6964378 v 3.5000002 h 3.5 V 7.6964378 Z m 4.5,0 V 11.196438 H 15 V 7.6964378 Z M 7,12.196438 v 3.5 h 3.5 v -3.5 z m 4.5,0 v 3.5 H 15 v -3.5 z"
      class="ColorScheme-Text"
-     id="path4" />
+     id="path1" />
 </svg>

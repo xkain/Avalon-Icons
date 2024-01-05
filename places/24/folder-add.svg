@@ -1,13 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#eff0f1;
-      }
-      </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme"> .ColorScheme-Text { color:#eff0f1; } </style>
   </defs>
-    <path 
-        style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" 
-        d="M5.58 3.078A2.515 2.515 0 0 0 3.078 5.58v10.84a2.515 2.515 0 0 0 2.502 2.502h8.305v-.834H5.58a1.664 1.664 0 0 1-1.668-1.668V9.873H6.873v-.008l.008.008 2-2H18.088v6.006h.834V7.297a2.515 2.515 0 0 0-2.502-2.502h-4.617l-.883-.883-.434-.433-.4-.4H5.58zm10.305 10.8v2h-2v1h2v2h1v-2h2v-1h-2v-2h-1z"
-        class="ColorScheme-Text"/>
+  <path
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.00985"
+     d="M 6.5266347,4 A 2.5397627,2.5397627 0 0 0 4,6.5266347 V 17.473365 A 2.5397627,2.5397627 0 0 0 6.5266347,20 H 14.913406 V 19.157788 H 6.5266347 A 1.6803837,1.6803837 0 0 1 4.8422116,17.473365 v -6.611461 h 2.990154 v -0.0081 l 0.00808,0.0081 2.019692,-2.0196924 H 19.157788 V 14.907347 H 20 V 8.2605403 A 2.5397627,2.5397627 0 0 0 17.473365,5.7339056 H 12.810906 L 11.919212,4.8422116 11.480939,4.4049482 11.077001,4.0010098 H 6.5266347 Z M 16.933098,14.906337 v 2.019692 h -2.019692 v 1.009846 h 2.019692 v 2.019692 h 1.009846 v -2.019692 h 2.019692 v -1.009846 h -2.019692 v -2.019692 z"
+     class="ColorScheme-Text"
+     id="path1" />
 </svg>
