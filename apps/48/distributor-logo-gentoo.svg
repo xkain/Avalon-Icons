@@ -116,7 +116,8 @@
      id="rect2"
      transform="matrix(1.0205018,0,0,1.0205018,1.2522959,-1.019787)" />
   <g
-     id="g1">
+     id="g1"
+     transform="translate(-1.1079801)">
     <g
        style="fill:#705db3"
        transform="matrix(0.05830383,0,0,0.05862773,11.61994,3.7281935)"

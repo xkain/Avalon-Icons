@@ -7,33 +7,9 @@
    version="1.1"
    viewBox="0 0 48 48"
    id="svg22"
-   sodipodi:docname="preferences-desktop-wallpaper.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview24"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
-     inkscape:zoom="11.25"
-     inkscape:cx="-11.288889"
-     inkscape:cy="22.177778"
-     inkscape:window-width="3440"
-     inkscape:window-height="1359"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg22"
-     inkscape:pageshadow="2" />
   <defs
      id="defs12">
     <linearGradient
@@ -69,7 +45,6 @@
          id="feGaussianBlur9" />
     </filter>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient3487"
        id="linearGradient3403"
        gradientUnits="userSpaceOnUse"
@@ -93,7 +68,6 @@
          id="stop3485" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient20604"
        id="linearGradient20558"
        gradientUnits="userSpaceOnUse"
@@ -117,7 +91,6 @@
          style="stop-color:#3d3d3d;stop-opacity:1" />
     </linearGradient>
     <filter
-       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter20720"
        x="-0.017024755"
@@ -125,7 +98,6 @@
        width="1.0340491"
        height="1.0329144">
       <feGaussianBlur
-         inkscape:collect="always"
          stdDeviation="0.14745661"
          id="feGaussianBlur20722" />
     </filter>
@@ -300,7 +272,7 @@
   </defs>
   <g
      id="g1027"
-     transform="matrix(0.84452153,0,0,1.1846797,-319.32089,-594.51026)">
+     transform="matrix(0.90334961,0,0,1.1846797,-343.33261,-594.51026)">
     <rect
        height="36"
        y="503.79999"
@@ -309,60 +281,49 @@
        ry="5"
        rx="5"
        id="rect39"
-       style="fill:url(#e)" />
+       style="display:inline;fill:url(#e)" />
     <path
        d="m 389.578,505.8 a 2.987,2.987 0 0 0 -3.004,2.99 v 27.008 h 44 v -27.002 a 2.984,2.984 0 0 0 -0.875,-2.119 3.003,3.003 0 0 0 -2.129,-0.877 z"
        id="path41"
-       style="fill:url(#f)"
-       inkscape:connector-curvature="0" />
+       style="fill:url(#f)" />
     <path
        d="m 429.322,506.52 -29.027,16.759 21.681,12.519 h 8.6 v -3 l -0.002,-24.002 a 2.984,2.984 0 0 0 -0.875,-2.119 c -0.096,-0.096 -0.268,-0.074 -0.377,-0.156 z"
        id="path43"
-       style="fill:url(#g)"
-       inkscape:connector-curvature="0" />
+       style="fill:url(#g)" />
     <path
        d="m 400.325,523.213 -13.75,7.94 v 4.644 h 35.605 z"
        id="path45"
-       style="fill:url(#h)"
-       inkscape:connector-curvature="0" />
+       style="fill:url(#h)" />
     <path
        d="m 407.896,527.59 -7.571,-4.37 v 8.741 z"
        id="path47"
-       style="fill:url(#i)"
-       inkscape:connector-curvature="0" />
+       style="fill:url(#i)" />
     <path
        d="m 415.466,531.957 v 3.844 h 6.656 z"
        id="path49"
-       style="fill:url(#j)"
-       inkscape:connector-curvature="0" />
+       style="fill:url(#j)" />
     <path
        d="m 407.893,527.584 v 8.213 h 0.916 l 6.654,-3.842 z"
        id="path51"
-       style="fill:url(#k)"
-       inkscape:connector-curvature="0" />
+       style="fill:url(#k)" />
     <path
        d="m 400.325,531.957 v 3.842 h 6.654 z"
        id="path53"
-       style="fill:url(#l)"
-       inkscape:connector-curvature="0" />
+       style="fill:url(#l)" />
     <path
        d="m 415.466,531.957 -6.656,3.844 h 6.656 z"
        id="path55"
-       style="fill:url(#m)"
-       inkscape:connector-curvature="0" />
+       style="fill:url(#m)" />
     <path
        d="m 430.574,508.796 a 2.984,2.984 0 0 0 -0.875,-2.119 c -0.095,-0.095 -0.266,-0.073 -0.373,-0.154 l -29.03,16.76 30.278,-8.942 z"
        id="path57"
-       inkscape:connector-curvature="0"
        style="fill:#aa478a" />
   </g>
   <path
      style="display:inline;mix-blend-mode:normal;fill:url(#linearGradient3403);fill-opacity:1;stroke:url(#linearGradient20558);stroke-width:1.16242;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter20720)"
      d="M 4.7043071,3.9814882 4.6913695,60.80196 H 58.59546 l 1.022155,-2.866369 c 0,0 -23.87537,0.766388 -32.844441,-4.140386 C 16.257548,48.042344 11.401114,4.0978197 11.401114,4.0978197 Z"
      id="path1686"
-     sodipodi:nodetypes="ccccscc"
-     transform="matrix(0.7518797,0,0,0.7518797,0.09970467,0.02488636)"
-     inkscape:label="folder" />
+     transform="matrix(0.7518797,0,0,0.7518797,0.09970467,0.02488636)" />
   <rect
      style="display:inline;fill:none;fill-opacity:1;stroke:url(#linearGradient4557);stroke-width:3.71366;stroke-linejoin:round;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-opacity:0.995146;filter:url(#filter4601)"
      id="rect4539"
@@ -372,6 +333,5 @@
      y="0.59551275"
      ry="6.2447233"
      rx="5.8029528"
-     transform="matrix(0.70434793,0,0,0.70291231,1.3629847,1.5442064)"
-     inkscape:label="contour" />
+     transform="matrix(0.70434793,0,0,0.70291231,1.3629847,1.5442064)" />
 </svg>
