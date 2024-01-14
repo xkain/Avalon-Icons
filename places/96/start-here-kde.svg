@@ -1,99 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="96"
-   version="1.1"
-   height="96"
-   id="svg18"
-   viewBox="0 0 96 96"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <defs
-     id="defs5455">
-    <linearGradient
-       id="linearGradient4326">
-      <stop
-         id="stop4328" />
-      <stop
-         offset="1"
-         style="stop-opacity:0"
-         id="stop4330" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient4326"
-       id="linearGradient4434"
-       y1="502.798"
-       x1="439.57144"
-       y2="512.79803"
-       x2="429.57144"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
-  <metadata
-     id="metadata5458">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <flowRoot
-     line-height="125%"
-     style="font-size:32.5px;font-family:sans-serif"
-     id="flowRoot4170"
-     transform="translate(-384.57143,-483.798)"><flowRegion
-       id="flowRegion4172"><rect
-         width="87.75001"
-         x="452.32144"
-         y="489.79807"
-         height="48.750004"
-         id="rect4174" /></flowRegion><flowPara
-       id="flowPara4176">Plasm</flowPara></flowRoot>
-  <g
-     id="g4"
-     transform="scale(1.5)">
-    <path
-       style="fill:#fbfbfb;fill-opacity:1;fill-rule:evenodd"
-       id="path4422"
-       d="m 41,5 -6,6 11,11 -11,11 6,6 17,-17 z" />
-    <rect
-       width="6.2500191"
-       x="400.32141"
-       y="489.79797"
-       rx="3.12501"
-       height="6.2500191"
-       style="fill:#fbfbfb;fill-opacity:1"
-       id="rect4119"
-       transform="translate(-384.57143,-483.798)" />
-    <rect
-       width="9.00002"
-       x="390.57141"
-       y="509.2988"
-       rx="4.4999952"
-       height="8.9999914"
-       style="fill:#fbfbfb;fill-opacity:1"
-       id="rect4308"
-       transform="translate(-384.57143,-483.798)" />
-    <rect
-       width="12.999995"
-       x="403.57144"
-       y="528.79803"
-       rx="6.4999981"
-       height="12.999995"
-       style="fill:#fbfbfb;fill-opacity:1"
-       id="rect4312"
-       transform="translate(-384.57143,-483.798)" />
-    <path
-       style="opacity:0.9;fill:url(#linearGradient4434);fill-rule:evenodd"
-       id="path4426"
-       d="m 423.57143,512.798 6,6 7,-7 -6,-6 z"
-       transform="translate(-384.57143,-483.798)" />
-  </g>
+<svg id="svg18" version="1.1" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs5455">
+        <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text {
+                color:#fbfbfb;
+            }
+        </style>
+        <linearGradient id="linearGradient4434" x1="439.57144" x2="429.57144" y1="502.798" y2="512.79803" gradientTransform="translate(-1.3269125e-7 .6666664)" gradientUnits="userSpaceOnUse">
+            <stop id="stop4328" offset="0"/>
+            <stop id="stop4330" stop-opacity="0" offset="1"/>
+        </linearGradient>
+    </defs>
+    <g id="layer1" transform="translate(-384.57144,-483.798)">
+        <g id="g855" transform="matrix(1.5000005,0,0,1.5000005,-192.28588,-241.89921)">
+            <path id="path4422" style="fill:currentColor" d="m425.23807 489.13134-6 6 11.33336 11.33336-11.33337 11.33326 6 6 17.33337-17.33326z" fill-rule="evenodd"
+            class="ColorScheme-Text" />
+            <rect id="rect4119" x="399.90475" y="489.79797" width="6.6666646" height="6.6666646" rx="3.3333328" fill="currentColor" stroke-width="1.06666" class="ColorScheme-Text"/>
+            <rect id="rect4308" x="390.57138" y="509.13129" width="9.3333302" height="9.3333302" rx="4.6666498" fill="currentColor" stroke-width="1.03704" class="ColorScheme-Text"/>
+            <rect id="rect4312" x="403.90472" y="528.46466" width="13.333329" height="13.333329" rx="6.6666651" fill="currentColor" stroke-width="1.02564" class="ColorScheme-Text"/>
+            <path id="path4426" d="m423.57143 513.4647 6 6 7-7-6-6z" fill="url(#linearGradient4434)" fill-rule="evenodd" opacity=".9"/>
+        </g>
+    </g>
 </svg>

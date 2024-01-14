@@ -1,52 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   viewBox="0 0 22 22"
-   id="svg9"
-   sodipodi:docname="update-high.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview11"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="28.636364"
-     inkscape:cx="11"
-     inkscape:cy="11"
-     inkscape:window-width="3440"
-     inkscape:window-height="1356"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg9" />
-  <defs
-     id="defs3">
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text {
-        color:#eff0f1;
-      }
-      .ColorScheme-NegativeText {
-        color:#da4453;
-      }</style>
-  </defs>
-  <path
-     class="ColorScheme-Text"
-     fill="currentColor"
-     d="M 10.943359,3.0019531 C 8.6336807,3.0198889 6.3655781,4.034275 4.8144531,5.9238281 2.3326531,8.9471651 2.4041219,13.331962 4.9824219,16.273438 L 5.734375,15.615234 C 3.474175,13.036617 3.4121906,9.210941 5.5878906,6.560547 7.7635896,3.910153 11.5304,3.2230001 14.5,4.9375001 L 14,5.8046876 16.480469,5.5058595 15.5,3.2070313 15,4.0722657 C 13.729688,3.3388595 12.329167,2.9911918 10.943359,3.0019531 Z m 6.072266,2.7265625 -0.751953,0.6582032 c 1.498615,1.7097401 2.023814,3.9662772 1.578125,6.0664062 0.319793,0.167527 0.615456,0.377776 0.878906,0.625 0.193608,-0.721967 0.289408,-1.46347 0.277344,-2.205078 C 18.968085,9.0312706 18.304775,7.1992536 17.015625,5.7285156 Z M 8,16.197266 5.5175781,16.496094 6.5,18.794922 7,17.929688 c 1.8980665,1.095835 4.087429,1.331359 6.082031,0.794921 -0.246556,-0.26464 -0.456152,-0.561622 -0.623047,-0.882812 C 10.81481,18.192571 9.0499149,17.957344 7.5,17.0625 Z"
-     id="path5"
-     sodipodi:nodetypes="scccscccccsccccsccccccccc" />
-  <path
-     class="ColorScheme-NegativeText"
-     fill="currentColor"
-     d="m16 13a2.9999907 2.9999907 0 0 0-3 3 2.9999907 2.9999907 0 0 0 3 3 2.9999907 2.9999907 0 0 0 3-3 2.9999907 2.9999907 0 0 0-3-3z"
-     id="path7" />
+<svg id="svg7" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs3">
+            <style type="text/css" id="current-color-scheme">
+                .ColorScheme-Text {            color:#eff0f1;        }
+                .ColorScheme-NegativeText {            color:#da4453;        }
+            </style>
+    </defs>
+    <path id="path787" d="m 13,3.2519531 c 0,0 -0.519531,0.00195 -0.519531,0.5195313 C 12.480469,4.2890619 13,4.2910156 13,4.2910156 15.891445,5.1515869 18,7.8290129 18,11 c -0.0063,0.486366 -0.06322,0.970755 -0.169922,1.445312 0.161143,0.08311 0.316449,0.177073 0.464844,0.28125 0.07407,0.05157 0.146381,0.105643 0.216797,0.16211 0.069,0.05634 0.136091,0.114964 0.201172,0.175781 0.001,9.59e-4 0.0029,9.93e-4 0.0039,0.002 C 18.900969,12.392916 18.996179,11.698207 19,11 19,7.2720854 16.450791,4.139802 13,3.2519531 Z m -4,0.00195 C 5.7023501,4.1028598 3.2280542,7.0005082 3.015625,10.509766 3.00081,10.767792 3.2450508,11 3.4824219,11 3.7197928,11 4.0009456,10.790468 4.0175781,10.513672 4.2204509,7.557553 6.2574569,5.1051618 9,4.2890625 c 0,0 0.5175783,-6e-7 0.5175781,-0.5175781 C 9.5175779,3.2539069 9,3.2539062 9,3.2539062 Z M 3,13 v 1 2.5 c 0,0 1e-6,0.5 0.5,0.5 C 3.999999,17 4,16.5 4,16.5 V 14.804688 C 5.3909787,17.377592 8.0751968,18.986326 11,19 c 0.700257,-0.0039 1.396968,-0.09982 2.072266,-0.285156 -0.06085,-0.06572 -0.119479,-0.133468 -0.175782,-0.203125 -0.05783,-0.07181 -0.113313,-0.145116 -0.166015,-0.220703 C 12.627707,18.143138 12.535048,17.988489 12.453125,17.828125 11.976085,17.936024 11.489049,17.993631 11,18 8.3012962,17.994597 5.8460375,16.438309 4.6894531,14 H 6.5 C 6.5,14 6.9909215,14.0439 7,13.517578 7.0090785,12.991257 6.5,13 6.5,13 H 4.3027344 3.2695312 Z" class="ColorScheme-Text" fill="currentColor" stroke-linecap="round" style="paint-order:markers fill stroke"/>
+    <path id="path1701" d="m19 16a3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3z" class="ColorScheme-NegativeText" fill="currentColor" stroke-linecap="round" style="paint-order:markers fill stroke"/>
 </svg>
