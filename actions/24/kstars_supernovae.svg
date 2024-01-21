@@ -13,7 +13,7 @@
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
-        color:#eff0f1;
+        color:#d8d8d8;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -21,6 +21,6 @@
       </style>
   </defs>
   <g transform="translate(1,1)">
-    <svg:path sodipodi:type="star" style="opacity:1;fill:#eff0f1;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path4136" sodipodi:sides="4" sodipodi:cx="11" sodipodi:cy="11" sodipodi:r1="9" sodipodi:r2="2.8284271" sodipodi:arg1="0" sodipodi:arg2="0.78539816" inkscape:flatsided="false" inkscape:rounded="0" inkscape:randomized="0" d="M 20,11 13,13 11,20 9,13 2,11 9,9 11,2 13,9 Z"/>
+    <svg:path sodipodi:type="star" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" class="ColorScheme-Text" id="path4136" sodipodi:sides="4" sodipodi:cx="11" sodipodi:cy="11" sodipodi:r1="9" sodipodi:r2="2.8284271" sodipodi:arg1="0" sodipodi:arg2="0.78539816" inkscape:flatsided="false" inkscape:rounded="0" inkscape:randomized="0" d="M 20,11 13,13 11,20 9,13 2,11 9,9 11,2 13,9 Z"/>
   </g>
 </svg>

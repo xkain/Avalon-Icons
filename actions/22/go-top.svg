@@ -3,7 +3,7 @@
         type="text/css"
         id="current-color-scheme">
         .ColorScheme-Text {
-            color:#eff0f1;
+            color:#d8d8d8;
         }
     </style>
     <g class="ColorScheme-Text" fill="currentColor">

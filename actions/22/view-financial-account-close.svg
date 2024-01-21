@@ -1,11 +1,7 @@
 <svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="current-color-scheme">
-      .ColorScheme-Text {
-        color:#eff0f1;
-      }
-    </style>
+<style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
 <path
-    d="m19 2.9941406-9 7.3730474v8.632812h9v-5h-1v3h-5.490234l6.490234-5.3125v-8.6933594zm-12.71875 0.0058594-0.6875 0.65625 1.4375 1.34375h-4.03125v1.0019531h4.03125l-1.4375 1.3417969 0.6875 0.65625 2.71875-2.5-2.71875-2.5zm11.71875 2.1054688v6.1074222l-7 5.732421v-6.109374l7-5.7304692z"
+    d="M 19,2.9941406 10,10.367188 V 17 c 0,0 0,2 2,2 2,0 3,0 5,0 2,0 2,-2 2,-2 v -3 h -1 v 2 c 0,0 0,1 -1,1 -1,0 -4.490234,0 -4.490234,0 L 19,11.6875 Z M 6.28125,3 5.59375,3.65625 7.03125,5 H 3 V 6.0019531 H 7.03125 L 5.59375,7.34375 6.28125,8 9,5.5 Z M 18,5.1054688 v 6.1074222 l -7,5.732421 v -6.109374 z"
     style="fill:currentColor;fill-opacity:1;stroke:none"
     class="ColorScheme-Text"
     />

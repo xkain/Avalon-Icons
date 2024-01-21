@@ -38,14 +38,9 @@
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-nodes="false"
      inkscape:zoom="29.5"
-     inkscape:cx="18.677966"
-     inkscape:cy="12.576271"
+     inkscape:cx="16"
+     inkscape:cy="14.711864"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -60,7 +55,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#eff0f1;
+        color:#d8d8d8;
       }
       </style>
   </defs>
