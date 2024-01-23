@@ -10,7 +10,7 @@
     <style type="text/css" id="current-color-scheme"> .ColorScheme-Text { color:#eff0f1; } </style>
   </defs>
   <path
-     style="color:currentColor;fill:currentColor;stroke-width:1.26491"
+     style="fill:currentColor;stroke-width:1.26491"
      d="M 11,3 C 7.4984998,3 7,6 7,7 v 4 H 4.7509036 C 4.3364588,11 4,11.303961 4,11.742621 V 18.2179 C 4,18.633411 4.5874358,19 5,19 H 17.237932 C 17.610744,19 18,18.626071 18,18.2179 V 11.742621 C 18,11.308085 17.621485,11 17.237932,11 H 15 V 7 C 15,6 14.5015,3 11,3 Z m 0,1 c 2.581911,0 3,2 3,3 v 4 H 8 V 7 C 8,6 8.4180886,4 11,4 Z"
      class="ColorScheme-Text"
      id="path1" />
