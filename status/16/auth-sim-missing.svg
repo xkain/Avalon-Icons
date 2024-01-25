@@ -1,12 +1,5 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#eff0f1;
-        }
-        .ColorScheme-NegativeText {
-            color:#da4453;
-        }
-    </style>
-    <path d="m4.1210938 2 2.8789062 2.8789062v-.8789062h2v2h-.8789062l1 1h1.1718752l1 1h.707031v1h-.707031l-.085938.0859375.707031.7070313.085938-.0859376v.171875l1 .9999998v-6.5859372l-2.292969-2.2929688zm5.8789062 2h1c.554 0 1 .446 1 1v2.2929688l-1.292969-1.2929688h-.707031zm-7 1.1210938v8.8789062h8.878906l-1-1h-.878906v-.878906l-1-1v1.878906h-2v-2h1.8789062l-1-1h-2.171875l-1-1h-.7070312v-1h.7070312l.5859376-.5859375-.7070313-.7070313-.5859375.5859376v-1.171875zm1 4.5859374 1.2929688 1.2929688h.7070312v2h-1c-.554 0-1-.446-1-1z" class="ColorScheme-Text" fill="currentColor"/>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}.ColorScheme-NegativeText {color:#da4453;}</style>
+    <path d="M 4.1210938,2 7,4.8789062 V 4 H 9 V 6 H 8.1210938 l 1,1 h 1.1718752 l 1,1 H 12 v 1 h -0.707031 l -0.08594,0.085937 0.707031,0.7070313 L 12,9.7070312 v 0.171875 l 1,0.9999998 V 4.2929688 L 10.707031,2 Z M 10,4 h 1 c 0.554,0 1,0.446 1,1 V 7.2929688 L 10.707031,6 H 10 Z M 3,5.1210938 C 3,5.1210938 3,10 3,12 c 0,2 2,2 2,2 h 6.878906 l -1,-1 H 10 v -0.878906 l -1,-1 V 13 H 7 v -2 h 1.8789062 l -1,-1 h -2.171875 l -1,-1 H 4 V 8 H 4.7070312 L 5.2929688,7.4140625 4.5859375,6.7070312 4,7.2929688 V 6.1210938 Z M 4,9.7070312 5.2929688,11 H 6 v 2 H 5 C 4.446,13 4,12.554 4,12 Z" class="ColorScheme-Text" fill="currentColor"/>
     <path d="m2.5 1.7929687-.7070313.7070313 11.7070313 11.707031.707031-.707031z" class="ColorScheme-NegativeText" fill="currentColor" stroke-linecap="square" stroke-miterlimit="0"/>
 </svg>
