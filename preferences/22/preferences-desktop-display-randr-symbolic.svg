@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-PositiveText{color:#27ae60;}.ColorScheme-NeutralText{color:#f67400;}.ColorScheme-NegativeText { color: #da4453; } </style>
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {
+            color:#fcfcfc;
+        }
+        .ColorScheme-Background {
+            color:#eff0f1;
+        }
+        .ColorScheme-ViewBackground {
+            color:#fcfcfc;
+        }
+        .ColorScheme-ButtonFocus {
+            color:#3daee9;
+        }
+        .ColorScheme-PositiveText {
+            color:#27ae60;
+        }
+        .ColorScheme-NeutralText {
+            color:#f67400;
+        }
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }</style>
     <g id="22-22-preferences-desktop-display-randr" transform="translate(-1,-1)">
         <rect id="rect3832" x="1" y="1" width="22" height="22" fill-opacity="0"/>
-        <path id="rect7235" class="ColorScheme-Text" d="m7 19h10v1h-10zm3-2h4v2h-4zm-6-13v13h16v-13zm1 1h14v9h-14z" fill="currentColor"/>
-        <path id="rect3018" class="ColorScheme-Text" d="m6 9 4 4h-4z" fill="currentColor"/>
-        <path id="path3028" class="ColorScheme-Text" d="m18 10-4-4h4z" fill="currentColor"/>
+        <path id="rect7235" class="ColorScheme-Text" d="m 7,19 h 10 v 1 H 7 Z m 3,-2 h 4 v 2 H 10 Z M 4,7 v 7 c 0,3 3,3 3,3 h 10 c 0,0 3,0 3,-3 V 7 C 20,4 17,4 17,4 H 7 C 7,4 4,4 4,7 Z M 5,7 C 5,5 7,5 7,5 h 10 c 0,0 2,0 2,2 v 7 c 0,2 -2,2 -2,2 H 7 c 0,0 -2,0 -2,-2 z" fill="currentColor"/>
+        <path id="rect3018" class="ColorScheme-Text" d="m 6,11 4,4 H 7 C 6,15 6.028133,14 6.028133,14 Z" fill="currentColor"/>
+        <path id="path3028" class="ColorScheme-Text" d="M 18,10 14,6 c 0,0 2,0 3,0 1,0 1,1 1,1 z" fill="currentColor"/>
     </g>
 </svg>
