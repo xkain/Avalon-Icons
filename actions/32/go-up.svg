@@ -1,10 +1,4 @@
 <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-    <style
-        type="text/css"
-        id="current-color-scheme">
-        .ColorScheme-Text {
-            color:#fcfcfc;
-        }
-    </style>
-    <path d="M16 8.293l-14 14 .707.707L16 9.707 29.293 23l.707-.707z" class="ColorScheme-Text" fill="currentColor"/>
+<style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
+    <path d="m 13.976128,10.316873 c -0.9395,0.9395 -11.6465005,11.6465 -11.6465005,11.6465 l 0.707,0.706999 11.6465005,-11.646499 c 0.95827,-0.95827 2.365717,-0.940899 3.299808,-0.0068 0.934091,0.934083 11.639692,11.653299 11.639692,11.653299 l 0.707,-0.706999 c 0,0 -10,-10 -11.6465,-11.6465 -1.6465,-1.6465005 -3.7675,-0.9395005 -4.707,0 z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>
