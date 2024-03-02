@@ -1,57 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg6"
-   sodipodi:docname="folder-Neon.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1002"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="39.25"
-     inkscape:cx="2.6751592"
-     inkscape:cy="8.0127389"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6"
-     inkscape:showpageshadow="2"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text { color:#eff0f1; }
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
   </defs>
   <path
      d="m 7.9999995,6.4411644 c -0.8606666,0 -1.5584,0.6977334 -1.5584,1.5584 0,0.8606666 0.6977334,1.5584 1.5584,1.5584 0.8606666,0 1.5584,-0.6977334 1.5584,-1.5584 0,-0.8606666 -0.6977334,-1.5584 -1.5584,-1.5584 z m -0.2704,0.5012 c -0.2921333,0.074533 -0.5429333,0.2696 -0.6878666,0.536 -0.014133,0.025733 -0.041067,0.040667 -0.068533,0.040667 -0.012667,0 -0.025333,-0.00307 -0.0372,-0.00947 -0.037733,-0.020667 -0.051867,-0.068 -0.0312,-0.1057333 0.1657334,-0.304 0.4524,-0.5272 0.7864,-0.6122667 0.042,-0.0112 0.084133,0.014533 0.094667,0.056267 0.010667,0.041733 -0.014667,0.084 -0.056267,0.094533 z"

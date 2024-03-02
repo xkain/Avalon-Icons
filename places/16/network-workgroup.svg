@@ -1,19 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">.ColorScheme-Text {color:#fcfcfc;}</style>
   </defs>
-  <path
-     style="fill:currentColor"
-     d="M 2,2.9487469 V 5 v 1 1 3 1 1.979817 C 2,13.643512 2.3370764,14 3.0363783,14 c 0,0 9.0335507,0 9.8138147,0 C 13.630457,14 14,13.643339 14,12.97981 14,12.316281 14,11 14,11 V 10 7 6 5 C 14,5 14,3.6465829 14,2.9794566 14,2.3123304 13.602093,2 12.914029,2 12.225966,2 3.0600309,2 3.0600309,2 2.3264131,2 2,2.3192585 2,2.9487469 Z M 11,3 h 2 V 4 H 11 Z M 3,6 H 13 V 7 H 3 Z m 8,2 h 2 v 1 h -2 z m -8,2 h 10 v 1 H 3 Z m 8,2 h 2 v 1 h -2 z"
-     class="ColorScheme-Text"
-     id="path1" />
+    <path 
+        style="fill:currentColor"
+        d="m 2,4 v 8 c 0,0 0,2 2,2 2,0 6,0 8,0 2,0 2,-2 2,-2 V 4 C 14,4 14,2 12,2 10,2 6,2 4,2 2,2 2,4 2,4 Z m 9,-1 h 2 V 4 H 11 Z M 3,6 H 13 V 7 H 3 Z m 8,2 h 2 v 1 h -2 z m -8,2 h 10 v 1 H 3 Z m 8,2 h 2 v 1 h -2 z"
+        class="ColorScheme-Text"/>
 </svg>
