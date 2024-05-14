@@ -83,12 +83,12 @@
   <filter
     style="color-interpolation-filters:sRGB"
     id="filter20720"
-    x="-0.017024755"
-    y="-0.016457183"
-    width="1.0340491"
-    height="1.0329144">
+    x="-0.010620775"
+    y="-0.010266692"
+    width="1.0212411"
+    height="1.0205334">
    <feGaussianBlur
-     stdDeviation="0.14745661"
+     stdDeviation="0.00089553612"
      id="feGaussianBlur20722" />
   </filter>
   <linearGradient
@@ -118,12 +118,12 @@
   <filter
     style="color-interpolation-filters:sRGB"
     id="filter4601"
-    x="-0.030244762"
-    width="1.0604895"
-    y="-0.030100647"
-    height="1.0602013">
+    x="-0.029714131"
+    width="1.0594283"
+    y="-0.029572544"
+    height="1.0591451">
    <feGaussianBlur
-     stdDeviation="0.014790289"
+     stdDeviation="0.00095694564"
      id="feGaussianBlur4603" />
   </filter>
   <linearGradient
@@ -205,12 +205,12 @@
      style="display:inline;opacity:0.15;fill:url(#g);stroke-width:0.641812"
      transform="matrix(1.0632004,0,0,1.0954983,-0.53994643,-2.9386982)" />
    <path
-     style="display:inline;opacity:1;mix-blend-mode:normal;fill:url(#linearGradient3403);fill-opacity:1;stroke:url(#linearGradient20558);stroke-width:1.16242;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter20720)"
+     style="display:inline;opacity:1;mix-blend-mode:normal;fill:url(#linearGradient3403);fill-opacity:1;stroke:url(#linearGradient20558);stroke-width:1.16242;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 4.7043071,3.9814882 4.6913695,60.80196 H 58.59546 l 1.022155,-2.866369 c 0,0 -23.87537,0.766388 -32.844441,-4.140386 C 16.257548,48.042344 11.401114,4.0978197 11.401114,4.0978197 Z"
      id="path1686"
      transform="matrix(0.25743946,0,0,0.25675115,2.7747554,2.7925565)" />
    <rect
-     style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4557);stroke-width:3.71366;stroke-linejoin:round;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-opacity:0.995146;filter:url(#filter4601)"
+     style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:url(#linearGradient4557);stroke-width:3.71366;stroke-linejoin:round;stroke-miterlimit:7.8;stroke-dasharray:none;stroke-opacity:0.995146"
      id="rect4539"
      width="62.567089"
      height="62.866646"
